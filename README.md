@@ -15,7 +15,8 @@
 - [Axios](https://axios-http.com)
 - [VueUse](https://vueuse.org/)
 - [Keycloak](https://keycloak.org/)
-
+- [Cognito]
+  
 ## Folder Structure
 
 features based folder structure로 대부분의 업무 로직은 features 폴더의 각 기능 별 폴더에 위치하게 된다.
