@@ -1,0 +1,73 @@
+$black: #000;
+$white: #fff;
+
+// gray
+$gray-12: #fafbfc;
+$gray-11: #f2f4f6;
+$gray-10: #e9edf0;
+$gray-09: #dce1e5;
+$gray-08: #c9ced4;
+$gray-07: #aab2b9;
+$gray-06: #9199a1;
+$gray-05: #757d85;
+$gray-04: #525a61;
+$gray-03: #3a4148;
+$gray-02: #292f35;
+$gray-01: #1f242b;
+
+// primary
+$primary: #5e64ff;
+$dark-01: #585ff2;
+$dark-02: #464deb;
+$light-01: #f7f7ff;
+$light-02: #eff0ff;
+
+// point
+$blue: #42b0ff;
+$green: #1ecb4e;
+$yellow: #feb21a;
+$orange: #ff6b31;
+$red: #fa5056;
+$red-dim: #ff4e54;
+$red-dim-10: #d15352;
+$red-op-05: rgba(255, 78, 84, 0.05);
+$red-op-10: rgba(255, 78, 84, 0.1);
+$point-red-05: rgba(255, 80, 86, 0.05);
+
+:export {
+  --black: #{$black};
+  --white: #{$white};
+
+  // gray
+  --gray-12: #{$gray-12};
+  --gray-11: #{$gray-11};
+  --gray-10: #{$gray-10};
+  --gray-09: #{$gray-09};
+  --gray-08: #{$gray-08};
+  --gray-07: #{$gray-07};
+  --gray-06: #{$gray-06};
+  --gray-05: #{$gray-05};
+  --gray-04: #{$gray-04};
+  --gray-03: #{$gray-03};
+  --gray-02: #{$gray-02};
+  --gray-01: #{$gray-01};
+
+  // primary
+  --primary: #{$primary};
+  --dark-01: #{$dark-01};
+  --dark-02: #{$dark-02};
+  --light-01: #{$light-01};
+  --light-02: #{$light-02};
+
+  // point
+  --blue: #{$blue};
+  --green: #{$green};
+  --yellow: #{$yellow};
+  --orange: #{$orange};
+  --red: #{$red};
+  --red-dim: #{$red-dim};
+  --red-dim-10: #{$red-dim-10};
+  --red-op-05: #{$red-op-05};
+  --red-op-10: #{$red-op-10};
+  --point-red-05: #{$point-red-05};
+}
